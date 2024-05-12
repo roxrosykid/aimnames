@@ -1,7 +1,7 @@
-# aimnames
-This is a fairly simple plugin. It just shows names of enemies you place your crosshair on(and health for admins). The plugin uses client prefs and allows players to change the settings for themselves. Screenshots are located at the bottom.
+# Aimnames
 
+This is a fairly simple plugin. It just shows names of enemies you place your crosshair on(and health for admins). The plugin uses client prefs and allows players to change the settings for themselves.
 
-Original by retsam
+Download latest release: [click!](https://github.com/roxrosykid/aimnames/releases/download/0.9.2/aimnames.zip)
 
-AM Thread: https://forums.alliedmods.net/showthread.php?t=114586
+Original by retsam, forked from Dragonisser.
